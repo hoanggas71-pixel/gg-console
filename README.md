@@ -1,2 +1,1 @@
-# gg-console
-Google site verification repository
+google-site-verification: googlef83d471e6ff7bf1f.html
